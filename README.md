@@ -16,11 +16,13 @@ This system uses two MySQL tables to store student information: `PCMCS` for Comp
 ### PCMCS Table
 
 This table stores information for Computer Science students:
+
 ![image](https://github.com/Mohamed-Fiyaz/StudentsMarkManager/assets/124451741/e5c2bbb8-27e8-401f-be8a-81ade186ceb9)
 
 ### PCMB Table
 
 This table stores information for Biology students:
+
 ![image](https://github.com/Mohamed-Fiyaz/StudentsMarkManager/assets/124451741/5c13eb26-4301-4d1f-b8ab-d50b984eff05)
 
 
