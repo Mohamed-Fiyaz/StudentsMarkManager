@@ -1,4 +1,4 @@
-# Students' Mark Management System
+# Students' Mark Management System (School Project)
 This Python script is a basic Students' Management System that interacts with a MySQL database to manage student marks and information. The system provides a menu-driven interface for performing various operations related to student records.
 
 ## Features
